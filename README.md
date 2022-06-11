@@ -1,8 +1,8 @@
 # 💫About Me :
-👋 Hi, I’m @rohannsrivastav
-👀 I’m interested in getting to 2000 on CodeChef before my roommate (have a bet)
-🌱 I’m currently learning Data science & operator overloading (endsems rn)
-💞️ I’m looking to work on web dev & ML
+👋 Hi, I’m @rohannsrivastav\
+👀 I’m interested in getting to 2000 on CodeChef before my roommate (have a bet)\
+🌱 I’m currently learning Data science & operator overloading (endsems rn)\
+💞️ I’m looking to work on web dev & ML\
 📫 Can reach out on srivastav.rohan2002@gmail.com
 
 ## 🌐Socials
