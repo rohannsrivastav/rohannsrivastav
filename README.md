@@ -15,7 +15,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rohannsrivastav&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohannsrivastav&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️Random Dev Quote
+### ✍️Some text
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
