@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I'm a sophomore :<br> <br>🔭 I’m currently working on web development<br> ⛷️I’m looking to collaborate on open-source projects <br>🧑🏽‍💻 I’m currently learning flutter and Dijkstra algorithm <br>♟️ Ask me about my love/hate for chess and my bench PR<br>
 
 
