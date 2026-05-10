@@ -4,6 +4,6 @@ I'm Rohan, a software engineer working in blr! I geek out on fintech and bare-me
 <br>
 Want to know more? Check out [my website](https://rohansri.com) or ping me at rohan@rohansri.com.
 
-Outside of work, I climb mountains, run marathons and explore the sea.
+Outside of work, I climb mountains, run marathons and read anything I can get my hands on.
 
 Glad you stopped by!
