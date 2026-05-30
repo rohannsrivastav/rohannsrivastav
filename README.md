@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm Rohan, a software engineer working in blr! I geek out on fintech and bare-metal tech projects in my free time. 
+I'm Rohan, a software engineer working in blr! I geek out on tech and bare-metal tech projects in my free time. 
 <br>
 Want to know more? Check out [my website](https://rohansri.com) or ping me at rohan@rohansri.com.
 
